@@ -8,6 +8,10 @@
 
 The APIs are now ready to be used.
 
+## Postman Collection
+
+The sample Postman collection for the executed APIs is linked [here](https://www.postman.com/spaceflight-geoscientist-21820644/workspace/pantry-clone/collection/19676415-25f589a3-dc30-4baa-9620-519e2fda2653).
+
 ## APIs
 
 - **SYSTEM**  
